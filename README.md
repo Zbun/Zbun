@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS,CSS.
 - 🌱 I’m currently learning TS & React.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me z@107000.xyz.
+- 📫 How to reach me z@107001.xyz.
 
 <!---
 Zbun/Zbun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
